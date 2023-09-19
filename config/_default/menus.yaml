@@ -1,0 +1,25 @@
+leftnav:
+- identifier: b8d380eb-9ac3-8755-e2fc-6beedcbc431d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 2b150ff7-af8a-89b9-5d0c-42e480d5ae3a
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 725772d5-7e7b-c1f6-de48-55bd713c6adc
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: dca60343-0ba6-4f28-450d-5467ea8072e9
+  name: Oral Reports and Interview Guidelines
+  pageRef: /pages/oral-reports-and-interview-guidelines
+  weight: 40
+- identifier: 602e1744-90f5-536c-e38e-272313c68dc7
+  name: Review Test Format
+  pageRef: /pages/review-test-format
+  weight: 50
+- identifier: d2f902d9-468c-6119-dc7d-45807e269288
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 60
