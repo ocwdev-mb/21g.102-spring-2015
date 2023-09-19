@@ -1,0 +1,42 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Chinese"
+    ]
+  ],
+  "legacy_uid": "376b605e-cd7b-6b8a-69d9-74a9a7d4632e",
+  "instructors": {
+    "content": [
+      "2f5dbfdd-2a6e-aa13-c3d8-8317cc9a1ebd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "24f29a37-34cf-969e-5ba4-20b785133cab",
+    "website": "21g-102-chinese-ii-regular-spring-2015"
+  },
+  "course_title": "Chinese II (Regular)",
+  "course_description": "This subject is the second semester of four that forms an introduction to modern standard Chinese, commonly called Mandarin. The emphasis is on further developing students' abilities to participate in simple, practical conversations on everyday topics as well as enhancing their abilities on reading and writing. The relationship between Chinese language and culture and the sociolinguistically appropriate use of language will be stressed throughout. A typical class includes performance of memorized basic conversations, drills, questions and discussion, and various types of communicative exercises. At the end of this course, students are expected to develop an understanding of the language learning process so that they will be able to continue studying effectively on their own.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.152",
+  "primary_course_number": "21G.102",
+  "course_image_thumbnail": {
+    "content": "696a23f2-02ff-f8ed-7ff2-fe8feae76843",
+    "website": "21g-102-chinese-ii-regular-spring-2015"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "20594826-e4a4-41a4-bf41-640e75ef4109",
+  "site_short_id": "21g.102-spring-2015",
+  "title": "Course Metadata"
+}
